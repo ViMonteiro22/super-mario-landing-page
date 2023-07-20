@@ -2,7 +2,7 @@
 
 Um projeto com a criação de um Landing Page do Super Mário pra desenvolvedores iniciantes. Com vídeo de fundo e link do trailer.
 
-[<img src="./Animação.gif" alt="gif do Mário e o Luigi">]
+<img src="./Animação.gif" alt="gif do Mário e o Luigi">
 
 #
 
